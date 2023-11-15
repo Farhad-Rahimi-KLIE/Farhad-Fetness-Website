@@ -1,2 +1,2 @@
 # Farhad-Fetness-Website
-<img src="images.jpeg">
+<img src="./images.jpeg">
