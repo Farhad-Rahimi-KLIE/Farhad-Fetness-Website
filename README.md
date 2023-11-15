@@ -1,2 +1,2 @@
 # Farhad-Fetness-Website
-<img src="./images.jpeg">
+<img src="Farhadfitnesswebsite/images.jpeg">
